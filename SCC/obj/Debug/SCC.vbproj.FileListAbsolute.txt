@@ -1,0 +1,12 @@
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\bin\Debug\SCC.exe.config
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\bin\Debug\SCC.exe
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\bin\Debug\SCC.pdb
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\bin\Debug\SCC.xml
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\obj\Debug\SCC.Form1.resources
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\obj\Debug\SCC.Resources.resources
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\obj\Debug\SCC.vbproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\obj\Debug\SCC.exe
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\obj\Debug\SCC.xml
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\obj\Debug\SCC.pdb
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2012\Projects\SteamCurrectConverter\SCC\obj\Debug\SCC.vbprojResolveAssemblyReference.cache
